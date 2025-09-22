@@ -1,7 +1,7 @@
 ![Youtube Banner](shiva.png)
 <span style="font-weight:bold;">🚀 Fullstack Developer |  🎥 Content Creator | 🤖 AI Enthusiastic</span>
 # 💫 About Me:
-🎓 CS Student @ Ariel University<br>🌱 I'm a starting content creator and streamer, focusing on tech, self-growth, and relatable content<br>💻 Passionate about App Development & AI
+🎓 CS Student @ Ariel University<br>🐐 I'm a starting content creator and streamer<br>💻 Passionate about App Development & AI
 
 
 ## 🌐 Socials:
